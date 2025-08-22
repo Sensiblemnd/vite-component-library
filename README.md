@@ -31,7 +31,7 @@ Always prepending pnpm:
 - `test`: Runs testing using watch mode.
 - `test:cov`: Runs testing displaying a coverage report.
 
-## Author of template
+## Author of original template
 
 [Ignacio Miranda Figueroa](https://www.linkedin.com/in/ignacio-miranda-figueroa/)
 
