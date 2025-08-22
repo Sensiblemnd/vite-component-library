@@ -11,7 +11,7 @@
 - 🌟 [Typescript](https://www.typescriptlang.org/)
 - 🐶 [Husky](https://typicode.github.io/husky) & [Lint Staged](https://www.npmjs.com/package/lint-staged) - Pre-commit Hooks
 - ⏰ [Release Please](https://github.com/googleapis/release-please) — Generate the changelog with the release-please workflow
-- [ESLint](https://eslint.org/) - Find and fix problems in your JavaScript code
+- 🧹 [ESLint](https://eslint.org/) - Find and fix problems in your JavaScript code
 
 ## Getting Started
 
